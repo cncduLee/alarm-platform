@@ -18,7 +18,6 @@
         <module>alarm-third</module>
         <module>alarm-emit</module>
         <module>alarm-monitor</module>
-        <module>alarm-rpc</module>
     </modules>
 
     <properties>
